@@ -1,0 +1,19 @@
+window:
+  padding:
+    x: 6
+    y: 6
+  dimensions:
+    columns: 70
+    lines: 25 
+  decorations: none # full | none
+  opacity: 0.9
+
+font:
+  size: 14
+
+cursor:
+  style:
+    shape: Beam
+  vi_mode_style:
+    shape: Block
+    
